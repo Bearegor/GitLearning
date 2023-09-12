@@ -16,4 +16,4 @@
 
 Какая-нибудь картинка:
 
-!(https://tenor.com/bRquz.gif)
+![Гифка](https://tenor.com/bRquz.gif)
