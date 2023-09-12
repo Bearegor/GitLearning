@@ -12,6 +12,8 @@
 1. Два
 1. Три
 
-Ссылка на репозиторий:
+[Ссылка на репозиторий](https://github.com/Bearegor/GitLearning)
 
 Какая-нибудь картинка:
+
+![https://tenor.com/bRquz.gif]
