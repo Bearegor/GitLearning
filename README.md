@@ -16,4 +16,4 @@
 
 Какая-нибудь картинка:
 
-![Гифка](https://media.tenor.com/9psBq90oFfwAAAAd/touhou-touhou-fumo.gif)
+![Гифка](https://media.tenor.com/UqipMl_oBsoAAAAC/fumo-fumo-meme.gif)
